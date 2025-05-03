@@ -173,3 +173,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+archive
+.bash_history
