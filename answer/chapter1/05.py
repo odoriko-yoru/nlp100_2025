@@ -2,7 +2,7 @@ from typing import Union
 
 
 def create_n_gram(n: int, sequence: Union[str, list]) -> list[str]:
-    """Separate inputed sentence and output a char/word n-gram.
+    """Separate inputted sentence and output a char/word n-gram.
 
     Parameters
     ----------
@@ -10,7 +10,7 @@ def create_n_gram(n: int, sequence: Union[str, list]) -> list[str]:
         Number of gram.
 
     sequence : str or list
-        Inputed sentence
+        inputted sentence
 
     Returns
     -------
