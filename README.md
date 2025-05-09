@@ -8,9 +8,15 @@
 uv sync
 ```
 
-2. Activate the virtual environment
+2. Activate the virtual environment and run script
 
 ```bash
->. .venv/bin/activate
-(nlp100) >
+. .venv/bin/activate
+ (nlp100) > python3 <python script>
+```
+
+or runnign python script without virtual environment activation
+
+```bash
+uv run <python script>
 ```
