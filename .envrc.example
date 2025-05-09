@@ -1,0 +1,2 @@
+# This file is exmaple for .envrc to be used with direnv
+export DATA_DIR=$(pwd)/data
