@@ -176,3 +176,4 @@ cython_debug/
 
 archive
 .bash_history
+.envrc
