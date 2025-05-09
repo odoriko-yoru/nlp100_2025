@@ -15,7 +15,7 @@ uv sync
  (nlp100) > python3 <python script>
 ```
 
-or runnign python script without virtual environment activation
+or running python script without virtual environment activation
 
 ```bash
 uv run <python script>
